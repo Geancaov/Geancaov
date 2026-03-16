@@ -56,3 +56,6 @@
 <a href="https://www.instagram.com/geancaov/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=Instagram&logoColor=White" />
 </a>
 </div>
+
+
+![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)
