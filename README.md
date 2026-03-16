@@ -39,6 +39,17 @@
 
 ### 🔗 &nbsp;Contact Me
 
+
+### ⚙️ &nbsp;GitHub Analytics
+<div align="center">
+  <p align="">
+    <a  href="https://github.com/SMatey">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SMatey&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SMatey&layout=compact&langs_count=8&theme=radical"/>
+    </a>
+  </p>
+</div>
+
 <div align="center">
 <a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/geancarlo-oviedo/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
